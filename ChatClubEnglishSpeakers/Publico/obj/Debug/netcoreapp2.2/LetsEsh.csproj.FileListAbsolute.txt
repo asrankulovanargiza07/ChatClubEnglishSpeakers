@@ -1,0 +1,6 @@
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.csprojAssemblyReference.cache
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.AssemblyInfoInputs.cache
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.AssemblyInfo.cs
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.csproj.CoreCompileInputs.cache
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.RazorAssemblyInfo.cache
+C:\Users\nargiza\Desktop\publico-master\Publico\obj\Debug\netcoreapp2.2\LetsEsh.RazorAssemblyInfo.cs
